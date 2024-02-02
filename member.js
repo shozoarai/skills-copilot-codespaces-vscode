@@ -1,6 +1,6 @@
 function skillsMember() {
-  return {
-    name: 'John Doe',
-    skills: ['JavaScript', 'React', 'Node']
-  };
+    return {
+        name: 'John',
+        skills: ['ReactJS', 'NodeJS', 'MongoDB']
+    }
 }
